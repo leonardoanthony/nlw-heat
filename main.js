@@ -9,8 +9,9 @@ const linksSocialMedia = {
     github: "leonardoanthony",
     youtube: "channel/UC-4kq1_R2iSsbg41h7EfjcQ",
     facebook: "leo.guimaraes.1671897",
-    // twitter: "maykbrito",
+    'api.whatsapp': "send?phone=5581999932991&text=Fala%20Leo%2C%20que%20tal%20iniciarmos%20um%20projetos%20juntos%3F",
     instagram: "leonardoanthony.dev",
+    linkedin: "in/leonardoanthony-dev/"
 }
 
 function changeSocialMediaLinks() {

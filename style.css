@@ -79,3 +79,13 @@ ul{
     gap: 0.5rem;
     justify-content: center;
 }
+
+a.brand i{
+    width: 40px;
+    height: 40px;
+    padding-top: .2em;
+    border-radius: 8px;
+    background-color: var(--grey);
+    color: var(--black);
+    font-size: 2em
+}
