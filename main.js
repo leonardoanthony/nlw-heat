@@ -9,7 +9,7 @@ const linksSocialMedia = {
     github: "leonardoanthony",
     youtube: "channel/UC-4kq1_R2iSsbg41h7EfjcQ",
     facebook: "leo.guimaraes.1671897",
-    twitter: "maykbrito",
+    // twitter: "maykbrito",
     instagram: "leonardoanthony.dev",
 }
 
